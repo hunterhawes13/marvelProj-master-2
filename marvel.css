@@ -1,0 +1,54 @@
+comic {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+/*  align-content: center;*/
+  float: left;
+  margin-bottom: 30px;
+  height: 600px;
+
+}
+
+comic-name {
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 30px;
+}
+
+img {
+  width: 300px;
+  height: 354px;
+  border: 2px solid black;
+
+}
+
+header {
+  display: block;
+  text-align: center;
+  background-color: #4d2600;
+  margin-bottom: 40px;
+
+}
+
+character-name {
+  display: inline;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 25px;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 5em;
+  font-weight: bold;
+  color: white;
+  width: auto;
+
+}
+
+header img {
+  width: 30%;
+  height: 30%;
+  border: 4px solid black;
+  margin-top: 20px;
+
+}
